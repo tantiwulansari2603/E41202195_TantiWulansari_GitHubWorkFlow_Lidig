@@ -11,13 +11,13 @@ class ChartModel {
 
 final List<ChartModel> items = [
   ChartModel(
-      name: 'Jefri Nicol',
+      name: 'Jefri',
       message: 'Hello Taan',
       time: '08.00',
       profileUrl:
           'https://obs.line-scdn.net/0h9jY97ARhZkVkQE_muf8ZEl4WZSpXLHVGAHY3WzQuOHEeIiRGWXIgK0dGbSJMdiEbDSUtI0hCfXQccSBEXnMg/w1200'),
   ChartModel(
-      name: 'Iqbal Ramadhan',
+      name: 'Iqbal',
       message: 'Lagi apa??',
       time: '9 march',
       profileUrl:
